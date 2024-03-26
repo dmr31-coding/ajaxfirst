@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<school>
+
+<student>
+<name>Gita</name>
+<roll>101</roll>
+</studen>
+
+<student>
+<name>Raju</name>
+<roll>102</roll>
+</studen>
+
+</school>
